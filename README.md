@@ -9,3 +9,12 @@ The bone marrow microenvironment plays a critical role in B-cell acute lymphobla
 Sample_pre_analysis_QC.R<br>
 DataIntegration.R<br>
 
+# Codes to generate the panels in figure 1, 2, 3, 4, 5, 6 and 8. Panels in Figure 7 was generated in graphpad and/or contain images.
+Figure_1.R<br>
+Figure_2.R<br>
+Figure_3.R<br>
+Figure_4.R<br>
+Figure_5.R<br>
+Figure_6.R<br>
+Figure_8.R<br>
+
