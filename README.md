@@ -8,10 +8,4 @@ The bone marrow microenvironment plays a critical role in B-cell acute lymphobla
 
 Sample_pre_analysis_QC.R<br>
 DataIntegration.R<br>
-CellAnnotation_PatientsIntegrated.R<br>
-GeneSetEnrichmentAnalysis.R<br>
-PathwayActivityPrediction_progeny.R<br>
-TranscriptionFactorActivityPrediction_Dorothea.R<br>
-TrayectoryAnalysis_Cytotrace.R<br>
-CellCellCommunication_CellChat.R<br>
-Figure
+
